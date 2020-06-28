@@ -1,0 +1,48 @@
+#risultato {
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#risultato > div {
+  width: 40%;
+  height: 90%;
+}
+.uno {
+  background-image:url(../img/uno.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.due {
+  background-image:url(../img/due.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.tre {
+  background-image:url(../img/tre.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.quattro {
+  background-image:url(../img/quattro.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.cinque {
+  background-image:url(../img/cinque.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.sei {
+  background-image:url(../img/sei.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
